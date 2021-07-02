@@ -11,8 +11,8 @@ import (
 	"io"
 	"sort"
 
+	"github.com/TheArcadiaGroup/firod/wire"
 	"github.com/aead/siphash"
-	"github.com/btcsuite/btcd/wire"
 	"github.com/kkdai/bstream"
 )
 

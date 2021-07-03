@@ -14,7 +14,7 @@ import (
 
 	"github.com/TheArcadiaGroup/firod/chaincfg"
 	"github.com/TheArcadiaGroup/firod/wire"
-	"github.com/TheArcadiaGroup/firoutil"
+	btcutil "github.com/TheArcadiaGroup/firoutil"
 	"golang.org/x/crypto/ripemd160"
 )
 
@@ -38,7 +38,7 @@ func applyCustomParams(params chaincfg.Params, customParams CustomParamStruct) c
 	params.Net = customParams.Net
 	params.PubKeyHashAddrID = customParams.PubKeyHashAddrID
 	params.ScriptHashAddrID = customParams.ScriptHashAddrID
-	params.Bech32HRPSegwit = customParams.Bech32HRPSegwit
+	// params.Bech32HRPSegwit = customParams.Bech32HRPSegwit
 	return params
 }
 

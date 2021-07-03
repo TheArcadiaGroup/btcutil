@@ -8,7 +8,7 @@ import (
 	"github.com/TheArcadiaGroup/firod/blockchain"
 	"github.com/TheArcadiaGroup/firod/chaincfg/chainhash"
 	"github.com/TheArcadiaGroup/firod/wire"
-	"github.com/TheArcadiaGroup/firoutil"
+	btcutil "github.com/TheArcadiaGroup/firoutil"
 )
 
 // merkleBlock is used to house intermediate information needed to generate a

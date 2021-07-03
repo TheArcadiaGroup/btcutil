@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"math"
 
-	"github.com/TheArcadiaGroup/firoutil"
+	btcutil "github.com/TheArcadiaGroup/firoutil"
 )
 
 func ExampleAmount() {

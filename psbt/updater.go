@@ -16,7 +16,7 @@ import (
 
 	"github.com/TheArcadiaGroup/firod/txscript"
 	"github.com/TheArcadiaGroup/firod/wire"
-	"github.com/TheArcadiaGroup/firoutil"
+	btcutil "github.com/TheArcadiaGroup/firoutil"
 )
 
 // Updater encapsulates the role 'Updater' as specified in BIP174; it accepts

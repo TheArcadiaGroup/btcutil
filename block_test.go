@@ -13,7 +13,7 @@ import (
 
 	"github.com/TheArcadiaGroup/firod/chaincfg/chainhash"
 	"github.com/TheArcadiaGroup/firod/wire"
-	"github.com/TheArcadiaGroup/firoutil"
+	btcutil "github.com/TheArcadiaGroup/firoutil"
 	"github.com/davecgh/go-spew/spew"
 )
 
@@ -333,10 +333,10 @@ var Block100000 = wire.MsgBlock{
 						0x04, 0x4c, 0x86, 0x04, 0x1b, 0x02, 0x06, 0x02,
 					},
 					Sequence: 0xffffffff,
-					Witness: [][]byte{
-						{0x04, 0x31},
-						{0x01, 0x43},
-					},
+					// Witness: [][]byte{
+					// 	{0x04, 0x31},
+					// 	{0x01, 0x43},
+					// },
 				},
 			},
 			TxOut: []*wire.TxOut{

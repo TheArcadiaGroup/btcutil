@@ -11,7 +11,7 @@ import (
 	"testing"
 
 	"github.com/TheArcadiaGroup/firod/chaincfg/chainhash"
-	"github.com/TheArcadiaGroup/firoutil"
+	btcutil "github.com/TheArcadiaGroup/firoutil"
 	"github.com/davecgh/go-spew/spew"
 )
 

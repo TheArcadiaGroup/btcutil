@@ -12,7 +12,7 @@ import (
 	"testing"
 	"unicode"
 
-	"github.com/TheArcadiaGroup/firoutil"
+	btcutil "github.com/TheArcadiaGroup/firoutil"
 )
 
 // TestAppDataDir tests the API for AppDataDir to ensure it gives expected

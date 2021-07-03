@@ -21,7 +21,7 @@ import (
 	"github.com/TheArcadiaGroup/firod/btcec"
 	"github.com/TheArcadiaGroup/firod/chaincfg"
 	"github.com/TheArcadiaGroup/firod/chaincfg/chainhash"
-	"github.com/TheArcadiaGroup/firoutil"
+	btcutil "github.com/TheArcadiaGroup/firoutil"
 	"github.com/TheArcadiaGroup/firoutil/base58"
 )
 

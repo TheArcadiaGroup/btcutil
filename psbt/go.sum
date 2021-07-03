@@ -1,5 +1,8 @@
-github.com/TheArcadiaGroup/firod v0.22.0-beta.0.20210702104942-50834b9555de h1:cgYWd9UFzr6fd3CtB+dDP18DLZ6iz1unSxCYSkf6hpw=
 github.com/TheArcadiaGroup/firod v0.22.0-beta.0.20210702104942-50834b9555de/go.mod h1:0g7VVDXtEDUZ9heVLsEQ3637M5eX488UiHQLU6AOHHo=
+github.com/TheArcadiaGroup/firod v0.22.0-beta.0.20210702123230-c2e808e80092 h1:cgIcFBUPeVhTrGBfDfcQ6PXOCvnuc+yOgPLhWXukw7Q=
+github.com/TheArcadiaGroup/firod v0.22.0-beta.0.20210702123230-c2e808e80092/go.mod h1:c37N6EcRuIC0ad6R+rJ6D7fPtjPuhioJBhW+XLWFnrA=
+github.com/TheArcadiaGroup/firoutil v1.0.3-0.20210702105910-69b409908efe h1:ql61aGcxd86SCq0d+jjkaZy0lt5TvmaCAHCefOA4hag=
+github.com/TheArcadiaGroup/firoutil v1.0.3-0.20210702105910-69b409908efe/go.mod h1:O6x2qmYfYMQZ4nRmEQ2yZWgkZU4OCIhDK1v14YhTMeA=
 github.com/aead/siphash v1.0.1/go.mod h1:Nywa3cDsYNNK3gaciGTWPwHt0wlpNV15vwmswBAUSII=
 github.com/btcsuite/btclog v0.0.0-20170628155309-84c8d2346e9f h1:bAs4lUbRJpnnkd9VhRV3jjAVU7DJVjMaK+IsvSeZvFo=
 github.com/btcsuite/btclog v0.0.0-20170628155309-84c8d2346e9f/go.mod h1:TdznJufoqS23FtqVCzL0ZqgP5MqXbb4fg/WgDys70nA=
